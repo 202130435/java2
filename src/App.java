@@ -5,7 +5,7 @@ public class App {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("월(1~12)을 입력하시오 : ");
-        int month = scanner.nextlnt();
+        int month = scanner.nextInt();
 
         if(3 <= month && month <= 5) {
             System.out.println("봄");
