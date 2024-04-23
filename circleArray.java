@@ -11,7 +11,7 @@ public class circle {
 public class circleArray {
     public static void main(String[] args) {
         Circle[] c;
-        c = new circle(5);
+        c = new Circle(5);
 
         for(int i= 0; i < c.length; i++) {
             System.out.println((int)(c[i].getArea())+" ");
