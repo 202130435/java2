@@ -1,4 +1,3 @@
-
 public class Ex0405_2 {
     string title;
     string author;
