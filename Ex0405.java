@@ -22,6 +22,6 @@ public class Ex0405 {
             finally {
                 sc.close();
             }
-            }
+    } 
         }   
 }
