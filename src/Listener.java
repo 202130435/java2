@@ -31,5 +31,6 @@ public class Listener extends JFrame{
         else
         b.setText("Action");
         }
+    }
 
    
